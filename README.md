@@ -1,4 +1,4 @@
-# py-websocket-online-game
+# py-realtime-forum
 
 WebSocketを使ってオンラインゲームを開発するためのリポジトリです。
 
