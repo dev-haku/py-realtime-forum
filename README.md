@@ -14,7 +14,7 @@ WebSocketを使ってオンラインゲームを開発するためのリポジ�
 - Render（バックエンド）
 
 ## お試しサイト（クライアント）
-https://dev-haku.github.io/py-websocket-online-game/
+https://dev-haku.github.io/py-realtime-forum/
 ### 利用の際の注意点
 接続に失敗した際は時間をおいて、再度アクセスすると接続できます。
 理由と致しましては、サーバ側がしばらくアクセスされていないと、サーバーを落としてしまっていまして、
